@@ -1,0 +1,16 @@
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\bin\Debug\ConsoleAppForScreenVideo.exe.config
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\bin\Debug\ConsoleAppForScreenVideo.exe
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\bin\Debug\ConsoleAppForScreenVideo.pdb
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\obj\Debug\ConsoleAppForScreenVideo.csproj.AssemblyReference.cache
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\obj\Debug\ConsoleAppForScreenVideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\obj\Debug\ConsoleAppForScreenVideo.csproj.CoreCompileInputs.cache
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\obj\Debug\ConsoleAppForScreenVideo.csproj.CopyComplete
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\obj\Debug\ConsoleAppForScreenVideo.exe
+C:\Users\Salm_ur23\source\repos\ScreenVideo\ConsoleAppForScreenVideo\obj\Debug\ConsoleAppForScreenVideo.pdb
